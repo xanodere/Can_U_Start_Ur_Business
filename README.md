@@ -1,4 +1,4 @@
-# Can U Run Ur Business
+# Can U Start Ur Business
 
 This project is a proposal for the automatic evaluation of e-commerce businesses. The tool is based on 3 axes: <br>
 -The financial axis: Different metrics are evaluated such as volatility, working capital, reinvestment ... <br>
